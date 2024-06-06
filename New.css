@@ -1,0 +1,49 @@
+#border{
+    align-items: center;
+    width: 100pxpx;
+    height: 200pxpx;
+    float: center;
+     
+     align-content: top;
+}
+
+
+
+
+
+#border button{
+    align-content: center;
+    width: 250px;
+    
+    
+}
+
+#border #button1{
+    width: 180px;
+    align-items: center;
+}
+
+#tagp{
+    font-size: 50px;
+    margin: 50px;
+    align-items: end;
+    
+}
+
+#border1{
+    width: 200pxpx;
+    height: 200px;
+ color: rgb(87, 87, 87);
+ 
+ 
+}
+
+#border1 #tagp{
+    color: rgb(189, 36, 250);
+    font-weight: bold;
+}
+
+#border1 p{
+    font-weight: bold;
+}
+
